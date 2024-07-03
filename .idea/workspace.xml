@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="830126df-7fcd-49f4-8008-4ff63bd296a5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Sb1UvkCTY7rHSKMucv5Xo0ZVeh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;D:/Chess/src/main/java/com/example/chess&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Chess/src/main/resources/com/example/chess&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Chess\src\main\resources\com\example\chess" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Chess\src\main\resources\com\example\chess" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.chess" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.chess" />
+      <recent name="com.example.chess.Model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration name="Chess2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.chess.Chess2" />
+      <module name="Chess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.chess.Model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.chess.Chess" />
+      <module name="Chess" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Chess2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="830126df-7fcd-49f4-8008-4ff63bd296a5" name="Changes" comment="" />
+      <created>1689359036581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689359036581</updated>
+      <workItem from="1689359039074" duration="56000" />
+      <workItem from="1689400500199" duration="3850000" />
+      <workItem from="1689419562656" duration="4475000" />
+      <workItem from="1689426620447" duration="856000" />
+      <workItem from="1689499638812" duration="16810000" />
+      <workItem from="1689583006785" duration="6571000" />
+      <workItem from="1689686779155" duration="739000" />
+      <workItem from="1689750305556" duration="3994000" />
+      <workItem from="1689754367791" duration="11788000" />
+      <workItem from="1689768394469" duration="806000" />
+      <workItem from="1689782292939" duration="8305000" />
+      <workItem from="1689800096382" duration="3971000" />
+      <workItem from="1689849247317" duration="13012000" />
+      <workItem from="1689878063478" duration="3619000" />
+      <workItem from="1689931430256" duration="8166000" />
+      <workItem from="1690013508833" duration="12474000" />
+      <workItem from="1690028688626" duration="987000" />
+      <workItem from="1690033723014" duration="2530000" />
+      <workItem from="1690046632876" duration="7582000" />
+      <workItem from="1690097436719" duration="9458000" />
+      <workItem from="1690201024005" duration="9832000" />
+      <workItem from="1690281414654" duration="1345000" />
+      <workItem from="1690299818457" duration="10192000" />
+      <workItem from="1690393987876" duration="9997000" />
+      <workItem from="1690479164708" duration="5981000" />
+      <workItem from="1690537411341" duration="14319000" />
+      <workItem from="1690559095153" duration="9167000" />
+      <workItem from="1698660794959" duration="836000" />
+      <workItem from="1699260537966" duration="586000" />
+      <workItem from="1720026740797" duration="347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.NotSerializableException" package="java.io" />
+          <option name="timeStamp" value="10" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
